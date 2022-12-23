@@ -7,8 +7,5 @@ class Human{
     String name;
     int age;
     
-    void humanName(String humaname){
-        return name;
-        
-    }
+  
 }
