@@ -1,5 +1,14 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Human human1 = new Human();
+    }
+}
+class Human{
+    String name;
+    int age;
+    
+    void humanName(String humaname){
+        return name;
+        
     }
 }
